@@ -9,3 +9,9 @@ This Document Editor demonstrates all five SOLID principles:
 - **D – Dependency Inversion:** `DocumentEditor` depends on the `Persistence` abstraction rather than concrete storage classes, using constructor dependency injection.
 
 **Outcome:** A modular, extensible, and maintainable design following SOLID principles.
+
+## Architecture Diagram
+![Architecture Diagram](architecture.png)
+
+## UML Diagram
+![UML Diagram](UML%20diagram.png)
